@@ -1,0 +1,45 @@
+img{
+  
+  height: 250px;
+  border-radius: 50%;
+  margin-top: 20px;
+  border:10px double white;
+  
+}
+body{
+  background:linear-gradient(to right, yellow, red, black);
+}
+.btn{
+  width: 30%;
+  display: flex;
+  margin: 50px auto;
+  justify-content: center;
+  text-align: center;
+  color: yellow;
+  outline: none;
+  outline-style: none;
+  cursor: pointer;
+}
+
+.cont{
+  text-align: center;
+  margin-top:50px;
+}
+.datas{
+  margin-top: 50px;
+  border-right: 2px double red;
+  border-top: 2px double red;
+  padding: 5px auto;
+  background-color: yellow;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+  box-shadow: 5px 5px 5px red;
+}
+b{
+  padding-right: 4px;
+  color: blue;
+}
+
